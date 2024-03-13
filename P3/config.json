@@ -1,0 +1,8 @@
+{
+  "basePackage": "co.com.rodriguezCaicedo.microservice.resolveEnigmaApi3",
+  "configPackage": "co.com.rodriguezCaicedo.microservice.resolveEnigmaApi3.config",
+  "apiPackage": "co.com.rodriguezCaicedo.microservice.resolveEnigmaApi3.api",
+  "modelPackage": "co.com.rodriguezCaicedo.microservice.resolveEnigmaApi3.model",
+  "groupId": "co.com.rodriguezCaicedo.service.resolveEnigmaApi3",
+  "artifactId": "resolve-enigma-api3"
+}
